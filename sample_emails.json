@@ -1,0 +1,14 @@
+[
+  {"uid": "1", "from": "armin@gmail.com", "subject": "جلسه فردا", "date": "2026-09-28 09:15", "seen": false,
+   "text": "سلام، لطفا تا امشب اسلایدهای ارائه فردا را برایم بفرست. جلسه ساعت ۱۰ صبح است."},
+  {"uid": "2", "from": "maryam@university.ac.ir", "subject": "دورهمی جمعه", "date": "2026-09-27 18:40", "seen": false,
+   "text": "سلام به همه! جمعه ساعت ۶ عصر دورهمی داریم. اگر می‌آیید خبر بدهید."},
+  {"uid": "3", "from": "boss@company.com", "subject": "URGENT: server is down", "date": "2026-09-27 08:02", "seen": false,
+   "text": "The production server is down since 7am. Please check it as soon as possible and call me."},
+  {"uid": "4", "from": "news@techweekly.com", "subject": "This week in AI", "date": "2026-09-26 12:00", "seen": true,
+   "text": "Top stories: new open-source models, agent frameworks and more. Unsubscribe at any time."},
+  {"uid": "5", "from": "billing@cloudhost.com", "subject": "Your invoice for September", "date": "2026-09-25 10:30", "seen": true,
+   "text": "Your invoice for September is $24.90. It will be charged to your card on October 1st."},
+  {"uid": "6", "from": "winner@lucky-prize.biz", "subject": "You won $1,000,000!!!", "date": "2026-09-24 03:12", "seen": false,
+   "text": "Congratulations! Click here and send your bank details to claim your prize."}
+]
